@@ -26,6 +26,7 @@ For this project, I am interested in using [World Cities Database](https://www.k
 1. Is population evenly distributed in world cities? 
 2. If population is not evenly distributed in world cities, what kind of cities are more attractive for people who live in the cities? 
 3. Cities in different countries may show different patterns when it comes to popular distribution. For example, in some countries people may prefer to live a very few cities. Other contries, however, seen their population more evenly distributed among its cities. Then, how uneuqlly distributed people are in different countries?
+4. Can we predict the city's population based on the variables in the data base?
 
 
 # File Descriptions 
